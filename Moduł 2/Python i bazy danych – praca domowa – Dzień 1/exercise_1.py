@@ -17,4 +17,9 @@ INSERT INTO Book(ISBN, name, description) VALUES ('9781439148501', 'Under the Do
 INSERT INTO Book(ISBN, name, description) VALUES ('9780307743688', 'The Stand', 'A book about the stand.');
 INSERT INTO Book(ISBN, name, description) VALUES ('9788379642298', 'Konan Destylator', 'A book about Konan Destylator.');
 INSERT INTO Book(ISBN, name, description) VALUES ('9788375745412', 'Kroniki Jakuba Wędrowycza', 'A book about Jakub Wędrowycz.');
+INSERT INTO Book(ISBN, name, description) VALUES ('9780747532743', 'Harry Potter and the Philosophers Stone', 'A book about Harry Potter and the Philosophers Stone.');
+INSERT INTO Book(ISBN, name, description) VALUES ('9780807282069', 'Harry Potter Harry Potter and the Chamber of Secrets', 'A book about Harry Potter Harry Potter and the Chamber of Secrets.');
 
+INSERT INTO Client(first_name, last_name) VALUES ('Jerzy', 'Jerzycki');
+INSERT INTO Client(first_name, last_name) VALUES ('Henryk', 'Henrykowski');
+INSERT INTO Client(first_name, last_name) VALUES ('Olaf', 'Olafowski');
